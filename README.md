@@ -428,4 +428,5 @@ unsure how to format a particular block of code.
 
 [pep 8]: https://peps.python.org/pep-0008/
 #   p y t h o n - p 3 - c o n d i t i o n a l - s t a t e m e n t s  
+ #   p y t h o n - p 3 - s e q u e n c e s  
  
